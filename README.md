@@ -41,6 +41,6 @@ I excel at being the technical translator in cross-functional teams - someone wh
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kassandra-winter/)
 - Visit my [personal website](https://www.kassiwinter.com)
 - Read my [blog](https://medium.com/@kassikwinter)
-- Contect me through [email](kassikwinter@gmail.com)
+- Contect me through email at kassikwinter@gmail.com
 
 
