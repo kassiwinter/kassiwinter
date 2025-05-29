@@ -12,8 +12,8 @@ I excel at being the technical translator in cross-functional teams - someone wh
 
 ### 🔭 Current Focus 
 *⭐ See a quick overview by visiting my [projects](https://github.com/kassiwinter/projects), [decompositions](https://github.com/kassiwinter/decompositions) and [learnings](https://github.com/kassiwinter/learnings)*
-- I’m currently working on **Project**
-- I’m currently learning **AI Infrastructure** and **Data Analysis Skills**
+- I’m currently working on **AI Agent Browser Automation**
+- I’m currently learning **AI Infrastructure**
 - I’m currently looking for **a full time software position**
 
 
@@ -21,7 +21,7 @@ I excel at being the technical translator in cross-functional teams - someone wh
 
 | Category | Skills |
 |----------|--------|
-| **Languages & Frameworks** | Python, React Native, Go, Java, C |
+| **Languages & Frameworks** | Python, React Native, Java, C |
 | **AI/ML** | PyTorch, TensorFlow, LLMs (GPT), NLP, Deep Learning |
 | **Frontend** | UI/UX Design (Figma), Responsive Web Design, iOS (XCode) |
 | **Backend** | SQL, NoSQL, REST API Design, ETL Pipeline |
