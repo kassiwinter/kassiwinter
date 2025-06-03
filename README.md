@@ -8,11 +8,11 @@ I excel at being the technical translator in cross-functional teams - someone wh
 
 - Pronouns: she/her/hers
 - Location: Seattle, WA, USA
-- Fun fact: I love trailrunning and baking banana bread
+- Fun fact: I love trailrunning and eating banana bread
 
 ### 🔭 Current Focus 
 *⭐ See a quick overview by visiting my [projects](https://github.com/kassiwinter/projects), [decompositions](https://github.com/kassiwinter/decompositions) and [learnings](https://github.com/kassiwinter/learnings)*
-- I’m currently working on **AI Agent Browser Automation**
+- I’m currently working on **[AI Agent Browser Automation](https://github.com/jacobmalone28/marvis-agent)** 
 - I’m currently learning **AI Infrastructure**
 - I’m currently looking for **a full time software position**
 
